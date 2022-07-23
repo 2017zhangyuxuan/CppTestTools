@@ -1,0 +1,1 @@
+add_executable(doctest_main doctest.h doctest_main.cpp)
